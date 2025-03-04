@@ -36,6 +36,6 @@ Para profundizar en el uso de Flexbox y el diseño responsivo, puedes consultar 
 
 - [Guía de CSS Flexible Box Layout (Flexbox)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [Introducción a las Media Queries](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries)
-- [Ejemplo de diseño responsivo con Flexbox](https://github.com/programmingmentor/simple-flexbox-responsive-layout-tutorial)
+
 
 
